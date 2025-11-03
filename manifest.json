@@ -1,10 +1,10 @@
 {
   "version": "2025.11.03-stable",
   "data_urls": {
-    "styles": "https://raw.githubusercontent.com/srcnusn-droid/promt/main/styles.json",
-    "data": "https://raw.githubusercontent.com/srcnusn-droid/promt/main/data.json",
-    "data_extended": "https://raw.githubusercontent.com/srcnusn-droid/promt/main/data_extended.json",
-    "negative_bank": "https://raw.githubusercontent.com/srcnusn-droid/promt/main/negative_bank.json",
-    "platforms": "https://raw.githubusercontent.com/srcnusn-droid/promt/main/platforms.json"
+    "styles": "https://raw.githubusercontent.com/srcnunsn-droid/promt/main/styles.json",
+    "data": "https://raw.githubusercontent.com/srcnunsn-droid/promt/main/data.json",
+    "data_extended": "https://raw.githubusercontent.com/srcnunsn-droid/promt/main/data_extended.json",
+    "negative_bank": "https://raw.githubusercontent.com/srcnunsn-droid/promt/main/negative_bank.json",
+    "platforms": "https://raw.githubusercontent.com/srcnunsn-droid/promt/main/platforms.json"
   }
 }
